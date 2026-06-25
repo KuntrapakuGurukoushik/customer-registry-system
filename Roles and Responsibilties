@@ -1,0 +1,24 @@
+## Roles and Responsibilities
+
+### Admin
+
+* Manage customer records
+* Monitor system activity
+
+### Customer
+
+* Register and update profile
+* Access customer services
+
+### API
+
+* Process requests and responses
+
+### Database
+
+* Store and retrieve customer data
+
+### SMS Service
+
+* Send notifications
+*
